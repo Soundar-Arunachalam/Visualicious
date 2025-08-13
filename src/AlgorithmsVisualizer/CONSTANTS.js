@@ -75,6 +75,10 @@ export const SOKERS = [
         "name" : "Gokul4"
     },
     {
+        "image" : "/Sokers/11.jpg",
+        "name" : "Soundar"
+    },
+    {
         "image" : "/Sokers/7.jpg",
         "name" : "Gokul4"
     },
@@ -90,4 +94,5 @@ export const SOKERS = [
         "image" : "/Sokers/10.jpg",
         "name" : "Gokul4"
     },
+    
 ];
