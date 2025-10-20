@@ -45,7 +45,7 @@ export const Algos = [
         "spaceComplexity": "O(n)",
         "name": "Array",
         "image": "./array.webp",
-        "path:": "/array"
+        "path": "/array"
     }
 ]
 
